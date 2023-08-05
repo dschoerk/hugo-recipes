@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Rezepte</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Rezepte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Jul 2023 10:58:32 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://example.org/posts/first/</link>
+      <title>Lieblingskuchen</title>
+      <link>http://example.org/posts/lieblingskuchen/</link>
       <pubDate>Wed, 26 Jul 2023 10:58:32 +0000</pubDate>
       
-      <guid>http://example.org/posts/first/</guid>
-      <description>My first post</description>
+      <guid>http://example.org/posts/lieblingskuchen/</guid>
+      <description>Lieblingskuchen Zutaten Schritte Notizen 24.07.2023: 45min bei 180°C Umluft war etwas zu heiß, Kuchen leicht angebrannt </description>
+    </item>
+    
+    <item>
+      <title>Nusshörnchen</title>
+      <link>http://example.org/posts/nussh%C3%B6rnchen/</link>
+      <pubDate>Wed, 26 Jul 2023 10:58:32 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nussh%C3%B6rnchen/</guid>
+      <description>Nusshörnchen Zutaten: Teig: - Milch: 250ml - Germ: 40g - Zucker: 40g - Mehl: 500g - Butter: 200g - Salz: 1 Prise - Ei: 1 Stk. - Dotter: 1 Stk. Nussfülle: - Milch: 125ml - Zucker: 100g - Nüsse: 250g - Butter: 30g - Abrieb einer Zitrone: - Rum: Schritte: Nussfülle: - Nüsse in den Mixtopf geben und 10 Sekunden/Stufe 7 reiben, umfüllen. - Topf auf den Mixtopf stellen, Milch, Zucker und Butter einwägen.</description>
+    </item>
+    
+    <item>
+      <title>Waffeln</title>
+      <link>http://example.org/posts/waffeln/</link>
+      <pubDate>Wed, 26 Jul 2023 10:58:32 +0000</pubDate>
+      
+      <guid>http://example.org/posts/waffeln/</guid>
+      <description>Zutaten Mehl: 250g Eier: 3 Stk. Vanillezucker: 1 Pkg. Zucker: 150g Milch: 150ml Margerine: 125g Salz: 1 Prise Backpulver: 1/2 Pkg Speisestärke: 1/2 EL Schritte Mehl und Backpulver mischen Eier mit Mixer schaumig schlagen Zucker, Milch, Vanillezucker, Mehl und Backpulver, Speisestärke und Salz unterrühren Waffeleisen mit Pinsel einfetten Margerine zum Teig geben und gut mischen Waffelteig ins Waffeleisen </description>
     </item>
     
   </channel>
